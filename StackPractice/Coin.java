@@ -13,8 +13,8 @@ package practice;
 */
 public class Coin {
 	private int value;
-	public Coin(int v) {
-		this.value = v;
+	public Coin(int value) {
+		this.value = value;
 	}
 	public int getValue() {
 		return value;
